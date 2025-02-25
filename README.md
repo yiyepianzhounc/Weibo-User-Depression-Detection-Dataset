@@ -33,17 +33,14 @@
 
 - As of May 30, 2020, the candidate samples collected by the crawler and the various information of the samples in WU3D are shown in the following table. Once new data is updated later, the statistics in this table will be updated.
 
-| **Topics** | **PTE Terms Number** | **Toxic euphemism Comments** | **Tox.** | **N-Tox.** | **Total Number** | **Average Length** | **Minimum Length** |
-|-----------|----------------------|-----------------------------|----------|------------|------------------|--------------------|--------------------|
-| “种族” (Race)                       | 244                  | 2,649                       | 2,381    | 5,030      | 36.2             | 4.0                |
-| “色情” (Sexism)                     | 134                  | 4,054                       | 2,020    | 6,074      | 26.7             | 2.0                |
-| “日常” (General)                    | 57                   | 593                         | 560      | 1,153      | 78.8             | 2.0                |
-| “性别” (Gender)                     | 157                  | 1,319                       | 1,299    | 2,618      | 36.7             | 5.0                |
-| “性少数群体” (LGBT)                  | 96                   | 887                         | 921      | 1,808      | 46.3             | 4.0                |
-| “地区” (Region)                     | 81                   | 1,066                       | 1,222    | 2,288      | 11.2             | 3.0                |
-| **Total**                           | 424                  | 10,568                      | 8,403    | 18,971     | 33.7             | 3.33               |
-
-
+| Dataset    | Category  |  User  |  Tweet   | Picture |
+| ---------- | --------- | :----: | :------: | :-----: |
+| Candidates | Depressed | 125479 | 5478806  | 2354701 |
+|            | Normal    | 65913  | 4927904  | 3631537 |
+|            | Total     | 191392 | 10406710 | 5986238 |
+| WU3D       | Depressed | 10325  |  408797  | 160481  |
+|            | Normal    | 22245  | 1783113  | 1087556 |
+|            | Total     | 32570  | 2191910  | 1248037 |
 
 
 ## Explanations and Issues
